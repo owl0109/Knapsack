@@ -44,7 +44,9 @@ for i in range(2 ** n):
         max_size = tmp_size
         combination = tmp_combination
 
+print("=====総当たり=====")
 print("合計が最大になる組み合わせ")
 print(combination)
 print("合計価格: ", max_price)
 print("合計サイズ: ", max_size)
+print()

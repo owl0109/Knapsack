@@ -1,4 +1,6 @@
-import test1.total_attack
+import test1.TotalAttack
+import test2.GreedyAlgorithm
 
 #総当たり
-test1.total_attack
+test1.TotalAttack
+test2.GreedyAlgorithm
